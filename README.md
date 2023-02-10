@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SujitAdroja
-- 👀 I’m interested in Game Developement
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on Gaming projects
+- 👀 I’m interested in Web Developement
+- 🎦 I'm intereste in creating amazing new peoject  
+- 🌱 I’m currently learning C/C++/html/css/javscript/reactjs
 - 📫 How to reach me sujitadroja07@gmail.com
 
 <!---
