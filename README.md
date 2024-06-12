@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SujitAdroja
-- 👀 I’m interested in Web Developement
-- 🎦 I'm intereste in creating amazing new peoject  
-- 🌱 I’m currently learning C/C++/html/css/javscript/reactjs
+- 👋 Hi, I’m @SujitAdroja.
+- 👀 I’m Software Engineer focused on FrontEnd Development using ReactJs.
+- 🎦 I'm intereste in creating amazing new real time projects.
 - 📫 How to reach me sujitadroja07@gmail.com
 
 <!---
